@@ -7,7 +7,7 @@ code blocks or any c++ complier
 
 
 # How to run this 
-1.open code blocks or any c++ compiler
-2.click file ->open->choose your file(ORDERINGC.CPP)
-3.Build the file, build and run the file
+1. Open code blocks or any c++ compiler
+2. Click file ->open->choose your file(ORDERINGC.CPP)
+3. Build the file, build and run the file
 
